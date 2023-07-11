@@ -104,4 +104,10 @@ height: 40px;
     display: flex;
     justify-content: space-around;
     flex-direction: row-reverse;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+.title{
+    text-align: center;
+    margin-bottom: 40px;
+   
 }
