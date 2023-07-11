@@ -41,6 +41,7 @@ border: none;
 color: white;
 width: 120px;
 height: 40px;
+cursor: pointer;
 }
 .sectionone-title{
     color: #272727;
@@ -105,9 +106,40 @@ height: 40px;
     justify-content: space-around;
     flex-direction: row-reverse;
     background-color: rgba(39, 39, 39, 0.05);
+    height: 250px;
+    align-items: center;
+    margin: 100px;
+    margin-top: 40px;
 }
 .title{
     text-align: center;
-    margin-bottom: 40px;
+    
    
+}
+.home{
+    margin-bottom: 10px;
+}
+.sectionthree-paragraph{
+    margin-bottom: 10px;
+}
+.discount{
+    color: #E55473;
+}
+.sectionfour-container{
+    display: flex;
+    justify-content: space-around;
+    background-color:  rgba(229, 84, 115, 0.05);
+    margin-top: 50px;
+    align-items: center;
+}
+.containerfour-paragraph{
+    text-align: center;
+}
+
+.hot-deal{
+    text-align: center;
+}
+
+.sectionfour-text{
+    text-align: center;
 }
