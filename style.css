@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sectionone-img{
+    width: 250px;
+
+}
+.sectionone-container{
+    background-color: #E554731A;
+    display: flex;
+    justify-content: space-around;
+
+}
+.img{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding: 0px;
+   
+}
+.sectionone-text{
+    margin-top: 60px;
+}
+.sectionone-paragraph{
+    margin-top: 10px;
+}
+.btn{
+margin-top: 10px;
+border-radius: 4px;
+background: #E55473;
+padding: 10px;
+border: none;
+color: white;
+}
+.sectionone-title{
+    color: #272727;
+
+}
