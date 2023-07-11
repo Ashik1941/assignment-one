@@ -1,0 +1,10 @@
+.section-one{
+    width: 1920px;
+    height: 850px;
+ background-color: #E554731A;
+}
+.sectionone-img{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}  
