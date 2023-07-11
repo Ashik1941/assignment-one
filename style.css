@@ -97,3 +97,11 @@ height: 40px;
 .middlebox-name{
     margin-top: 73px;
 }
+.bike{
+    width: 200px;
+}
+.sectionthree-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
