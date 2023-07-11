@@ -131,6 +131,8 @@ cursor: pointer;
     background-color:  rgba(229, 84, 115, 0.05);
     margin-top: 50px;
     align-items: center;
+    height: 380px;
+    padding: 50px;
 }
 .containerfour-paragraph{
     text-align: center;
@@ -142,4 +144,12 @@ cursor: pointer;
 
 .sectionfour-text{
     text-align: center;
+}
+.containerfour-img{
+    width: 100px;
+    margin-right: 400px;
+    align-items: center;
+}
+.flower-pot{
+width: 190px;
 }
