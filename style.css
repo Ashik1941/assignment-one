@@ -329,9 +329,20 @@
 
 .copywrite {
     text-align: center;
+    background-color: #111010;
 
 }
+.color{
+   color: #E55473;
 
+}
+.shop{
+    color: #FFFFFF;
+}
+.footer-title{
+    font-family: 'Lato', sans-serif;
+
+}
 .clr {
     color: rgba(255, 255, 255, 0.40);
 }
