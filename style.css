@@ -83,29 +83,29 @@
 }
 
 .sectiontwo-container{
-    margin-left: 20px;
+    display: flex;
+    margin: 20px  240px;
+    
 
 }
 
 .sectiontwo-box{
     width: 250px;
-    height: 338px;
+    height: 310px;
     background-color: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
+    margin: 10px;
 
+}
+.box-img{
+    width: 160px;
+    margin-left: 50px;
+    margin-top: 89px;
 }
 .img{
-    width: 150px;
-}
-
-
-
-
-
-.box-name {
-    color: #272727;
-    text-decoration-line: underline;
-    
+    width: 160px;
+    margin-left: 50px;
+    margin-top: 70px;
 }
 
 .bike {
