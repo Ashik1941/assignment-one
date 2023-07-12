@@ -162,7 +162,10 @@
     height: 250px;
     align-items: center;
     margin: 100px;
-    margin-top: 60px;
+    margin-top: 30px;
+}
+.surprise{
+    color:  #E55473;
 }
 
 .bike {
