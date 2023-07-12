@@ -50,7 +50,7 @@
     font-family: 'Lato', sans-serif;
 }
 
-.sectionone-title {
+.sectionone-title{
     color: #272727;
     font-size: 35px;
     font-family: 'Lato', sans-serif;
@@ -214,6 +214,13 @@
 
 .containerfour-paragraph {
     text-align: center;
+    margin-bottom: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-top: 10px;
 }
 
 .hot-deal {
@@ -222,6 +229,10 @@
 
 .sectionfour-text {
     text-align: center;
+    color: #272727;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    
 }
 
 .containerfour-img {
