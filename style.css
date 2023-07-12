@@ -50,7 +50,7 @@
     font-family: 'Lato', sans-serif;
 }
 
-.sectionone-title{
+.sectionone-title {
     color: #272727;
     font-size: 35px;
     font-family: 'Lato', sans-serif;
@@ -164,8 +164,9 @@
     margin: 100px;
     margin-top: 30px;
 }
-.surprise{
-    color:  #E55473;
+
+.surprise {
+    color: #E55473;
 }
 
 .bike {
@@ -223,16 +224,13 @@
     margin-top: 10px;
 }
 
-.hot-deal {
-    text-align: center;
-}
 
 .sectionfour-text {
     text-align: center;
     color: #272727;
     font-size: 15px;
     font-family: 'Lato', sans-serif;
-    
+
 }
 
 .containerfour-img {
@@ -263,32 +261,62 @@
 }
 
 .subscribe {
-    background-image: url('./Rectangle\ 9.png');
-    width: 1100px;
-    height: 800px;
+    background-image: url(./Rectangle\ 9.png);
     background-repeat: no-repeat;
-    align-items: center;
-    margin-top: 100px;
-    margin-left: 100px;
-}
-
-.text {
-    text-align: center;
-}
-
-.last {
+    background-size: cover;
+    height: 400px;
+    margin-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
     text-align: center;
 
+
+
+
 }
 
-.deal {
-    margin-top: 100px;
-    align-items: center;
+.coupon-title {
+    color: #272727;
+    font-size: 35px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+
 }
 
-.color {
-    color: #E55473;
+.coupon-paragraph {
+    margin-top: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 20px;
+
 }
+
+.coupon-text {
+    padding: 100px;
+
+}
+
+.input {
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    width: 400px;
+    height: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
 
 .last-part {
     background-color: #111010;
