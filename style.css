@@ -251,8 +251,8 @@
 }
 
 .pht {
-    margin-left: 250px;
-    margin-top: 30px;
+    margin-left: 240px;
+    margin-top: 35px;
 
 }
 
@@ -265,7 +265,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
-    margin-top: 80px;
+    margin-top: 60px;
     padding-left: 100px;
     padding-right: 100px;
     text-align: center;
@@ -309,15 +309,6 @@
     text-align: left;
     padding: 10px;
 }
-
-
-
-
-
-
-
-
-
 .last-part {
     background-color: #111010;
     color: white;
@@ -326,7 +317,6 @@
     margin-top: 50px;
 
 }
-
 .copywrite {
     border: 15px solid #111010;
     padding: 50px;
@@ -334,10 +324,6 @@
     background-color: #111010;
     height: 150px;
     text-align: center;
-   
-
-
-
 }
 
 .color {
@@ -353,9 +339,6 @@
     font-family: 'Lato', sans-serif;
     font-size: 35px;
     margin: 20px;
-    
-   
-
 }
 
 .clr {
@@ -370,7 +353,6 @@
     color: rgba(255, 255, 255, 0.90);
     font-family: 'Lato', sans-serif;
     font-size: 12px;
-    line-height: 20px;
-    
+    line-height: 20px; 
 }
 
